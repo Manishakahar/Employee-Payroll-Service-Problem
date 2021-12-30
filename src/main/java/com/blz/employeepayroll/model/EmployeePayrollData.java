@@ -1,4 +1,4 @@
-package com.blz.empolyeepayroll.model;
+package com.blz.employeepayroll.model;
 
 //Creating EmployeePayrollData class
 public class EmployeePayrollData {
